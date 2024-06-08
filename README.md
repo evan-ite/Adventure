@@ -21,7 +21,7 @@ This is a text based game from 1975: Colossal Cave Adventure [https://en.wikiped
    ```
   Also smaller versions of the game can be played by passing 'Small' or 'Tiny' as an argument instead of Crowther
 
-  !!type 'help' during the game for explanation!!
+  !! type 'help' during the game for explanation !!
 
 ---
 
